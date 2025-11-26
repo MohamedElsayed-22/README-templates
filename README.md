@@ -40,6 +40,8 @@ README-templates/
 ## 🤝 Contributing
 
 **Feel free to contribute!**  
+>[!NOTE]
+> Hello from Hagar Usama 👋
 
 You can:  
 - Add new templates  
